@@ -1,0 +1,5 @@
+name: EazItemRandomizer
+version: '1.0'
+main: net.eazitemrandomizer.EazItemRandomizer
+api-version: '1.20'
+description: Eaz Plugin um an Weihnachten jedem ein zufälliges Item zu geben
